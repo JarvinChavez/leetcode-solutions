@@ -2,7 +2,7 @@
 
 A structured study log — not just accepted submissions. Goal: **100 problems** with clear explanations and complexity notes.
 
-**Progress: 0 / 100**
+**Progress: 1 / 100**
 
 ---
 
@@ -16,7 +16,7 @@ I use this to practice problem-solving, document approaches, and track patterns 
 
 | # | Status | Topic | Problems |
 |---:|:---:|---|---|
-| 1 | ⬜ | Arrays & Hashing | 0/15 |
+| 1 | 🟡 | Arrays & Hashing | 1/15 |
 | 2 | ⬜ | Two Pointers | 0/8 |
 | 3 | ⬜ | Sliding Window | 0/6 |
 | 4 | ⬜ | Stack | 0/6 |
@@ -72,7 +72,7 @@ See `templates/solution-template.py`.
 
 | # | Problem | Difficulty | Topic | Solution |
 |---:|---|:---:|:---:|---|
-| — | *Start here* | — | — | — |
+| 1 | Two Sum | Easy | Arrays & Hashing | [python/arrays/001-two-sum.py](python/arrays/001-two-sum.py) |
 
 ---
 
