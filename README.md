@@ -1,6 +1,6 @@
 # LeetCode Solutions
 
-A structured study log — not just accepted submissions. Goal: **100 problems** with clear explanations and complexity notes.
+A structured archive of solved problems — not just accepted submissions. Goal: **100 problems** with clear explanations, complexity notes, and repeatable problem-solving steps.
 
 **Progress: 1 / 100**
 
@@ -9,6 +9,11 @@ A structured study log — not just accepted submissions. Goal: **100 problems**
 ## Why this repo exists
 
 I use this to practice problem-solving, document approaches, and track patterns — the same discipline I apply to production systems (clear logic, edge cases, trade-offs).
+
+## Authorship note
+
+- All solution code in this repo is written by **Jarvin Chavez**.
+- Cursor assistance is limited to checking logic, validating edge cases, and helping authenticate that the documented approach matches the final solution.
 
 ---
 
@@ -60,9 +65,10 @@ Every solution file should include:
 
 1. **Problem link** (LeetCode URL)
 2. **Approach** (2–4 sentences)
-3. **Complexity** (time + space)
-4. **Code**
-5. **Edge cases** you considered
+3. **Step-by-step notes** (numbered algorithm steps)
+4. **Complexity** (time + space)
+5. **Code**
+6. **Edge cases** you considered
 
 See `templates/solution-template.py`.
 
