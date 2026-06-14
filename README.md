@@ -2,7 +2,7 @@
 
 A structured archive of solved problems — not just accepted submissions. Goal: **100 problems** with clear explanations, complexity notes, and repeatable problem-solving steps.
 
-**Progress: 1 / 100**
+**Progress: 2 / 100**
 
 ---
 
@@ -26,7 +26,7 @@ I use this to practice problem-solving, document approaches, and track patterns 
 | 3 | ⬜ | Sliding Window | 0/6 |
 | 4 | ⬜ | Stack | 0/6 |
 | 5 | ⬜ | Binary Search | 0/6 |
-| 6 | ⬜ | Linked List | 0/6 |
+| 6 | 🟡 | Linked List | 1/6 |
 | 7 | ⬜ | Trees | 0/10 |
 | 8 | ⬜ | Tries / Heap | 0/5 |
 | 9 | ⬜ | Backtracking | 0/6 |
@@ -48,8 +48,12 @@ leetcode-solutions/
 ├── python/
 │   ├── arrays/
 │   │   └── 001-two-sum.py
-│   ├── trees/
 │   └── ...
+├── javascript/
+│   └── linked-list/
+│       └── 2130-maximum-twin-sum/
+│           ├── README.md
+│           └── solution.js
 └── templates/
     └── solution-template.py
 ```
@@ -79,6 +83,7 @@ See `templates/solution-template.py`.
 | # | Problem | Difficulty | Topic | Solution |
 |---:|---|:---:|:---:|---|
 | 1 | Two Sum | Easy | Arrays & Hashing | [python/arrays/001-two-sum.py](python/arrays/001-two-sum.py) |
+| 2130 | Maximum Twin Sum of a Linked List | Medium | Linked List | [javascript/linked-list/2130-maximum-twin-sum/](javascript/linked-list/2130-maximum-twin-sum/) |
 
 ---
 
